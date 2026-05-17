@@ -15,6 +15,7 @@ void copyString(char *source, char *destination){
 int main(){
     // int gg;
     // scanf("%d", &gg);
+    // hello world 67
     char source[5];
     scanf("%s", source);
     char destination[100];
